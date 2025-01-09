@@ -1,0 +1,245 @@
+[
+    {
+      "question": "What is the capital of California?",
+      "answers": [
+        { "text": "Sacramento", "correct": true },
+        { "text": "Los Angeles", "correct": false },
+        { "text": "San Francisco", "correct": false },
+        { "text": "San Diego", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Texas?",
+      "answers": [
+        { "text": "Austin", "correct": true },
+        { "text": "Houston", "correct": false },
+        { "text": "Dallas", "correct": false },
+        { "text": "San Antonio", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Florida?",
+      "answers": [
+        { "text": "Tallahassee", "correct": true },
+        { "text": "Miami", "correct": false },
+        { "text": "Orlando", "correct": false },
+        { "text": "Tampa", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of New York?",
+      "answers": [
+        { "text": "Albany", "correct": true },
+        { "text": "New York City", "correct": false },
+        { "text": "Buffalo", "correct": false },
+        { "text": "Syracuse", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Illinois?",
+      "answers": [
+        { "text": "Springfield", "correct": true },
+        { "text": "Chicago", "correct": false },
+        { "text": "Peoria", "correct": false },
+        { "text": "Champaign", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Georgia?",
+      "answers": [
+        { "text": "Atlanta", "correct": true },
+        { "text": "Savannah", "correct": false },
+        { "text": "Augusta", "correct": false },
+        { "text": "Macon", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Ohio?",
+      "answers": [
+        { "text": "Columbus", "correct": true },
+        { "text": "Cleveland", "correct": false },
+        { "text": "Cincinnati", "correct": false },
+        { "text": "Dayton", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Alaska?",
+      "answers": [
+        { "text": "Juneau", "correct": true },
+        { "text": "Anchorage", "correct": false },
+        { "text": "Fairbanks", "correct": false },
+        { "text": "Sitka", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Arizona?",
+      "answers": [
+        { "text": "Phoenix", "correct": true },
+        { "text": "Tucson", "correct": false },
+        { "text": "Mesa", "correct": false },
+        { "text": "Glendale", "correct": false }
+      ]
+    },
+    {
+          "question": "What is a person who studies insects called?",
+          "answers": [
+            { "text": "Entomologist", "correct": true },
+            { "text": "Zoologist", "correct": false },
+            { "text": "Botanist", "correct": false },
+            { "text": "Marine Biologist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who repairs watches called?",
+          "answers": [
+            { "text": "Horologist", "correct": true },
+            { "text": "Jeweler", "correct": false },
+            { "text": "Optician", "correct": false },
+            { "text": "Tailor", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who studies animals and their behavior called?",
+          "answers": [
+            { "text": "Zoologist", "correct": true },
+            { "text": "Veterinarian", "correct": false },
+            { "text": "Botanist", "correct": false },
+            { "text": "Geologist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who takes care of trees called?",
+          "answers": [
+            { "text": "Arborist", "correct": true },
+            { "text": "Forester", "correct": false },
+            { "text": "Landscaper", "correct": false },
+            { "text": "Horticulturist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who studies and treats fish called?",
+          "answers": [
+            { "text": "Ichthyologist", "correct": true },
+            { "text": "Marine Biologist", "correct": false },
+            { "text": "Zoologist", "correct": false },
+            { "text": "Aquatic Veterinarian", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who studies fungi called?",
+          "answers": [
+            { "text": "Mycologist", "correct": true },
+            { "text": "Botanist", "correct": false },
+            { "text": "Horticulturist", "correct": false },
+            { "text": "Ecologist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who studies and works with plants called?",
+          "answers": [
+            { "text": "Botanist", "correct": true },
+            { "text": "Agronomist", "correct": false },
+            { "text": "Horticulturist", "correct": false },
+            { "text": "Ecologist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who studies and treats the mind and behavior called?",
+          "answers": [
+            { "text": "Psychologist", "correct": true },
+            { "text": "Psychiatrist", "correct": false },
+            { "text": "Neurologist", "correct": false },
+            { "text": "Therapist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who studies rocks and minerals called?",
+          "answers": [
+            { "text": "Geologist", "correct": true },
+            { "text": "Mineralogist", "correct": false },
+            { "text": "Paleontologist", "correct": false },
+            { "text": "Archaeologist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who specializes in making or repairing eyeglasses called?",
+          "answers": [
+            { "text": "Optician", "correct": true },
+            { "text": "Optometrist", "correct": false },
+            { "text": "Ophthalmologist", "correct": false },
+            { "text": "Audiologist", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who designs or makes maps called?",
+          "answers": [
+            { "text": "Cartographer", "correct": true },
+            { "text": "Geographer", "correct": false },
+            { "text": "Geologist", "correct": false },
+            { "text": "Surveyor", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who works with metals and forges tools called?",
+          "answers": [
+            { "text": "Blacksmith", "correct": true },
+            { "text": "Metallurgist", "correct": false },
+            { "text": "Welder", "correct": false },
+            { "text": "Mechanic", "correct": false }
+          ]
+        },
+        {
+          "question": "What is a person who makes and repairs shoes called?",
+          "answers": [
+            { "text": "Cobbler", "correct": true },
+            { "text": "Bootmaker", "correct": false },
+            { "text": "Leatherworker", "correct": false },
+            { "text": "Shoe designer", "correct": false }
+          ]
+        },
+        {
+              "question": "What is the only country in the world whose flag is not rectangular or square?",
+              "answers": [
+                { "text": "Nepal", "correct": true },
+                { "text": "Switzerland", "correct": false },
+                { "text": "Japan", "correct": false },
+                { "text": "United Kingdom", "correct": false }
+              ]
+            },
+            {
+              "question": "Which famous artist is credited with the invention of the modern form of the self-portrait, known as the 'selfie'?",
+              "answers": [
+                { "text": "Rembrandt", "correct": true },
+                { "text": "Van Gogh", "correct": false },
+                { "text": "Picasso", "correct": false },
+                { "text": "Frida Kahlo", "correct": false }
+              ]
+            },
+            {
+              "question": "Which element on the periodic table is named after a country?",
+              "answers": [
+                { "text": "Polonium", "correct": true },
+                { "text": "Francium", "correct": false },
+                { "text": "Germany", "correct": false },
+                { "text": "Australia", "correct": false }
+              ]
+            },
+            {
+              "question": "Which is the smallest country in the world by land area?",
+              "answers": [
+                { "text": "Vatican City", "correct": true },
+                { "text": "Monaco", "correct": false },
+                { "text": "Nauru", "correct": false },
+                { "text": "San Marino", "correct": false }
+              ]
+            },
+            {
+              "question": "What is the longest river in the world?",
+              "answers": [
+                { "text": "Nile River", "correct": true },
+                { "text": "Amazon River", "correct": false },
+                { "text": "Yangtze River", "correct": false },
+                { "text": "Mississippi River", "correct": false }
+              ]
+            }
+          ]            

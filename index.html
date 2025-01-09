@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Main Menu -->
+    <div class="main-menu">
+        <button id="anagram-button" class="btn">Anagram</button>
+        <button id="quiz-button" class="btn">Quiz</button>       
+    </div>
+
+    <!-- Anagram Game screen -->
+    <div id="anagram-game" class="game-container hide">
+        <h2>Anagram Game</h2>
+
+        <!-- Word length selection screen -->
+        <div id="word-length-selection" class="word-length-selection">
+            <h3>Select Word Length</h3>
+            <button class="btn" id="length-8">8 Letters</button>
+            <button class="btn" id="length-9">9 Letters</button>
+            <button class="btn" id="length-10">10 Letters</button>
+            <button class="btn" id="length-11">11 Letters</button>
+            <button class="btn" id="length-12">12 Letters</button>
+        </div>
+
+        <!-- Game screen (hidden initially) -->
+        <div id="game-screen" class="game-screen hide">
+            <div id="anagram-letters">_ _ _ _ _</div>
+            <input type="text" id="anagram-input" />
+            <button id="submit-anagram" class="btn">Submit</button>
+            <button id="give-up-button" class="btn">Give Up</button>
+        </div>
+    </div>
+
+    <!-- Quiz Game screen -->
+    <div id="quiz-game" class="game-container hide">
+        <div id="question-container">
+            <h2 id="question">Question Text</h2>
+            <div id="answer-buttons" class="btn-grid"></div>
+        </div>
+        <div id="quiz-feedback"></div>
+        <button id="next-button" class="btn">Next</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

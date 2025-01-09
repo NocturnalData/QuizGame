@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.main-menu {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    position: fixed; /* Keep it fixed at the top */
+    top: 0;
+    z-index: 1; /* Ensure it stays above the game screens */
+}
+
+.game-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    margin-top: 80px; /* Add margin to push the games below the menu */
+}
+
+.game-container.hide {
+    display: none;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+#anagram-letters {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#anagram-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.correct {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.wrong {
+    background-color: #f44336;
+    color: white;
+}
+
+#quiz-feedback {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+#word-length-selection {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+#word-length-selection button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #0056b3;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+#word-length-selection button:hover {
+    background-color: #ddd;
+}
+
+
+/* Add a flexbox layout to the answer buttons container to space them vertically */
+#answer-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;  /* This is the key to adding spacing between the buttons */
+    align-items: center;  /* Align the buttons in the center */
+    margin-top: 20px;  /* You can adjust this for spacing above the answers */
+}
+
+#answer-buttons .btn {
+    width: 100%;  /* Optional: You can make the buttons full-width */
+    max-width: 400px;  /* Optional: To prevent the buttons from getting too wide */
+}
+

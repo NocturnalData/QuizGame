@@ -1,0 +1,28 @@
+[
+    { "word": "computer", "length": 8 },
+    { "word": "monument", "length": 8 },
+    { "word": "rotation", "length": 8 },
+    { "word": "elephant", "length": 8 },
+    { "word": "language", "length": 8 },
+    { "word": "algorithm", "length": 9 },
+    { "word": "education", "length": 9 },
+    { "word": "frequency", "length": 9 },
+    { "word": "adventure", "length": 9 },
+    { "word": "mountains", "length": 9 },
+    { "word": "historical", "length": 10 },
+    { "word": "background", "length": 10 },
+    { "word": "lighthouse", "length": 10 },
+    { "word": "lumberjack", "length": 10 },
+    { "word": "watermelon", "length": 10 },
+    { "word": "declaration", "length": 11 },
+    { "word": "destination", "length": 11 },
+    { "word": "development", "length": 11 },
+    { "word": "generation", "length": 11 },
+    { "word": "interpreter", "length": 11 },
+    { "word": "recognizable", "length": 12 },
+    { "word": "understanding", "length": 12 },
+    { "word": "technological", "length": 12 },
+    { "word": "multinational", "length": 12 },
+    { "word": "contribution", "length": 12 }
+  ]
+  
